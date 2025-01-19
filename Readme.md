@@ -1,4 +1,4 @@
-"inititl project setup"
+"professional project setup"
 
 
 
