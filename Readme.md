@@ -1,3 +1,8 @@
+"professional project setup"
+
+
+
+
 create project
 git initialise
 folder-public/folder-temp for image temprery server
